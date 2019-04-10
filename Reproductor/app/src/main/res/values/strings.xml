@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reproductor</string>
+    <string name="tv1_titulo">* Reproductor *</string>
+    <string name="bt1_play">Play/Pause</string>
+    <string name="btn_repetir">Repetir</string>
+    <string name="btn_stop">Detener</string>
+    <string name="bt1_sgte">Siguiente</string>
+    <string name="bt1_antes">Anterior</string>
+    <string name="btn_Regresar">Regresar</string>
+    <string name="btn_terminar">Terminar</string>
+</resources>
